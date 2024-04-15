@@ -7,7 +7,8 @@
 <li>Descargamos <a href="https://open.spotify.com/download">Spotify</a> de su pagina oficial</li>
 <strong><em> Solo funciona desde su pagina oficial, en caso de tenerlo instalado desde Microsoft Store deben desinstalarlo.</em></strong>
 <li>Una vez instaldo Spotify, recomiendo que inicien seccion en su cuenta.</li>
-<li>Cerramos Spotify (Verifiquen administrador de tareas) y ejecutamos el script.</li>
+<li>Cerramos Spotify (Verifiquen administrador de tareas)</li>
+<li>Descargamos y ejecutamos el <a href="https://github.com/Shinigamy19/SpotyHack-Script/blob/main/SpotyHack.bat">Script</a>.</li>
 <img src="Screenshot_1.png"/>
 <li>Nos aseguramos de instalar Spicetify Marketplace presionando "Y"</li>
 <li>Instalamos el Adblock desde Marketplace</li>
