@@ -1,6 +1,10 @@
 # SpotyHack-Script
  Un pequeño script para hackear spotify utilizando <a href="https://spicetify.app">Spicetify</a>
 
+<h1>Instucciones</h1>
+
+<p>¿No te gusta leer? Apreta la imagen.</p>
+<a href="https://youtu.be/UY9ak0a2fR4"><img src="Tuto Batch Hack.png" width="640" height="480"></a>
 <h3>¿Como Usar?</h3>
 
 <ol>
@@ -17,7 +21,7 @@
 </ol>
 
 <h3>¿Eso es todo?</h3>
-<p><b>Nope</b> El script les va a servir para cuando se actualice spotify.</p>
+<p><b>¡Nope!</b> El script les va a servir para cuando se actualice spotify.</p>
 <p>Cuando la app se actualiza el market desaparece. Entonces lo que hay que hacer es cerrar la app completa y ejecutar nuevamente el script.</p>
 
 <h3>Muchos de nada!</h3>
